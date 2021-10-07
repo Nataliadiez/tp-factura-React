@@ -12,4 +12,8 @@ const mensajeErrorOculto= {
     display: "none"
 }
 
-export {errorCargaDatos,mensajeError,mensajeErrorOculto}
+const estiloCargaDatos = {border: "solid 1px black"}
+
+
+
+export {errorCargaDatos,mensajeError,mensajeErrorOculto,estiloCargaDatos}
